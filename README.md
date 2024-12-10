@@ -9,10 +9,8 @@ Install:
 
 # Example
 
-![test image]{\assets\images\test_image.png}
+![test image](\assets\images\test_image.png)
 
 becomes
 
-⢹⠁⡯⠁⠪⢅⠈⡏
-
-⠈⠀⠉⠁⠈⠁⠀⠁
+<p style="line-height: 1;">⢹⠁⡯⠁⠪⢅⠈⡏<br>⠈⠀⠉⠁⠈⠁⠀⠁</p>
