@@ -13,4 +13,6 @@ Install:
 
 becomes
 
-<p style="line-height: 0.5;">⢹⠁⡯⠁⠪⢅⠈⡏<br>⠈⠀⠉⠁⠈⠁⠀⠁</p>
+⢹⠁⡯⠁⠪⢅⠈⡏<br>⠈⠀⠉⠁⠈⠁⠀⠁
+
+(sorry, the line spacing makes it weird)
